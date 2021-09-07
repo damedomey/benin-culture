@@ -1,4 +1,47 @@
 
+/* Paterne */
 .carousel-item img{
     max-height: 400px;
 }
+
+/* Verrah */
+
+body{
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+  
+  #Pcardinaux {
+    color: blue;
+    text-decoration: underline ;
+    text-align: center;
+  }
+  .nord ,.centre ,.sud, .contenu #Pcardinaux {
+    background-color: rgba(224, 224, 195, 0.432);
+  }
+  
+  .col {
+    border-radius: 5%;
+    padding-top: 2%;
+    margin-left: 0%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    
+  }
+  .col:hover
+  {
+    box-shadow: 1px 0px 2px 0px ;
+  }
+  
+  .footer {
+    text-align: center;
+    margin: auto;
+    background-color: rgba(82, 61, 61, 0.253);
+    margin-top: 3%;
+  }
+  
+  .cube{
+    height: 190px;
+    width: 348px;
+  }
+  
