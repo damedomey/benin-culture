@@ -1,7 +1,7 @@
 /* David*/
 .row .col-4 img{
   width: 100%;
-  height: 100;
+  height: 100%;
 }
 
 /* Paterne */
@@ -11,21 +11,7 @@
 
 /* Verrah */
 
-body{
-    margin-left: 1%;
-    margin-right: 1%;
-  }
-  
-  #Pcardinaux {
-    color: blue;
-    text-decoration: underline ;
-    text-align: center;
-  }
-  .nord ,.centre ,.sud, .contenu #Pcardinaux {
-    background-color: rgba(224, 224, 195, 0.432);
-  }
-  
-  .col {
+  .col-hover {
     border-radius: 5%;
     padding-top: 2%;
     margin-left: 0%;
@@ -33,20 +19,13 @@ body{
     margin-top: 2%;
     
   }
-  .col:hover
+  .col-hover:hover
   {
     box-shadow: 1px 0px 2px 0px ;
-  }
-  
-  .footer {
-    text-align: center;
-    margin: auto;
-    background-color: rgba(82, 61, 61, 0.253);
-    margin-top: 3%;
-  }
+  } 
   
   .cube{
-    height: 190px;
-    width: 348px;
+    height: 200px;
+    width: 100%;
   }
   
