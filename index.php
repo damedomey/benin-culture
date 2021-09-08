@@ -18,29 +18,72 @@
       include "sections/navbar.php";
     ?>
 
-    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="assets/img/place-des-martyrs.jpg" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-                <img src="assets/img/porte.jpg" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-                <img src="assets/img/tata_sumba.jpeg" class="d-block w-100" alt="...">
+    <!-- ======= Hero Section ======= -->
+    <section id="hero">
+        <div class="hero-container">
+            <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+
+                <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+                <div class="carousel-inner" role="listbox">
+
+                    <!-- Slide 1 -->
+                    <div class="carousel-item active" style="background-image: url('assets/img/slide/slide-1.jpg');">
+                        <div class="carousel-container">
+                            <div class="carousel-content container">
+                                <h2 class="animate__animated animate__fadeInDown">Bienvenue au <span
+                                        class="text-muted bg-white">DAHOMEY</span></h2>
+                                <p class="animate__animated animate__fadeInUp">Chercher à vivre du trading et de la
+                                    bourse est un processus qui peut être passionnant à plusieurs égards, mais il doit
+                                    être pris très au sérieux pour que cela ait une chance de fonctionner.</p>
+                                <a href="#about"
+                                    class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Slide 2 -->
+                    <div class="carousel-item" style="background-image: url('assets/img/slide/slide-2.jpg');">
+                        <div class="carousel-container">
+                            <div class="carousel-content container">
+                                <h2 class="animate__animated animate__fadeInDown">Trader's Skill Room</h2>
+                                <p class="animate__animated animate__fadeInUp">Le guide pour Vivre du Trading et de la
+                                    Bourse.</p>
+                                <a href="#about"
+                                    class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Slide 3 -->
+                    <div class="carousel-item" style="background-image: url('assets/img/slide/slide-3.jpg');">
+                        <div class="carousel-container">
+                            <div class="carousel-content container">
+                                <h2 class="animate__animated animate__fadeInDown">Devenir trader professionnel</h2>
+                                <p class="animate__animated animate__fadeInUp">Apprendre à trader pour un débutant
+                                    implique obligatoirement une formation. Quoiqu'il arrive vous serez obligé de vous
+                                    former que ce soit avec un professionnel ou seul devant votre écran de trading.</p>
+                                <a href="#about"
+                                    class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon icofont-rounded-left" aria-hidden="true"></span>
+                    <span class="sr-only">Precedent</span>
+                </a>
+                <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon icofont-rounded-right" aria-hidden="true"></span>
+                    <span class="sr-only">Suivant</span>
+                </a>
+
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
-            data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
-            data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
-    </div>
+    </section><!-- End Hero -->
+
 
     <div class="album py-5 bg-light">
         <div class="container">
