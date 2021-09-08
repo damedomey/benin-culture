@@ -1,0 +1,31 @@
+/* David*/
+.row .col-4 img{
+  width: 100%;
+  height: 100%;
+}
+
+/* Paterne */
+.carousel-item img{
+    max-height: 400px;
+}
+
+/* Verrah */
+
+  .col-hover {
+    border-radius: 5%;
+    padding-top: 2%;
+    margin-left: 0%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    
+  }
+  .col-hover:hover
+  {
+    box-shadow: 1px 0px 2px 0px ;
+  } 
+  
+  .cube{
+    height: 200px;
+    width: 100%;
+  }
+  
