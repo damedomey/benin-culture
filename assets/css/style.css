@@ -3,15 +3,23 @@
   width: 100%;
   height: 200px;
 }
-.navbar{
-  background: #587187;
 
+.card-body .card-text{
+  min-height: 100px;
+  max-height: 100px;
+  overflow: hidden;
 }
-/* Paterne */
+.navbar{
+  background: #587187d9;
+}
+
+/* Paterne */ 
 .carousel-item img{
     max-height: 400px;
 }
-
+.dropdown-menu a {
+  color: black;
+}
 /* Verrah */
 
   .col-hover {
@@ -266,7 +274,7 @@
 }
 
 #footer .footer-top .footer-links ul li {
-  padding: 10px 0;
+  padding: 5px 0;
   display: flex;
   align-items: center;
 }
