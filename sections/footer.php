@@ -5,12 +5,12 @@
               <div class="row">
 
                   <div class="col-lg-3 col-md-6 footer-info">
-                      <h3>TSR</h3>
+                      <h3>Dahomey</h3> 
                       <p>
-                          Cotonou <br>
-                          Bénin<br><br>
-                          <strong>Tel:</strong> +229 ++ ++ ++ ++<br>
-                          <strong>Email:</strong> info@example.com<br>
+                          <!-- Cotonou <br> -->
+                          <!-- Dahomey<br><br> -->
+                          <!-- <strong>Tel:</strong> +229 ++ ++ ++ ++<br> -->
+                          <strong>Email:</strong> dahomeyproject@gmail.com<br>
                       </p>
                       <div class="social-links mt-3">
                           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -21,7 +21,7 @@
                       </div>
                   </div>
 
-                  <div class="col-lg-2 col-md-6 footer-links">
+                  <div class="col-lg-2 col-md-6 footer-links" style = "margin-right : -2% ;">
                       <h4>Liens</h4>
                       <ul>
                           <li><i class="bx bx-chevron-right"></i> <a href="#">Accueil</a></li>
@@ -32,18 +32,19 @@
                       </ul>
                   </div>
 
-                  <div class="col-lg-3 col-md-6 footer-links">
+                  <div class="col-lg-3 col-md-6 footer-links" style = "margin-right : 3% ;">
                       <h4>Categories</h4>
                       <ul>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Artisanat</a></li> <hr>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Danse</a></li> <hr>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Langues & Ethnies</a></li> <hr>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Monuments</a></li> <hr>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Musique</a></li> <hr>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Mythes & légendes</a></li>
                       </ul>
                   </div>
 
-                  <div class="col-lg-4 col-md-6 footer-newsletter">
+                  <div class="col-lg-3 col-md-6 footer-newsletter">
                       <h4>Newsletter</h4>
                       <p>Souscrire à notre Newsletter pour être au courant de toute nos activités.</p>
                       <form action="" method="post">
