@@ -3,7 +3,10 @@
   width: 100%;
   height: 200px;
 }
+.navbar{
+  background: #587187;
 
+}
 /* Paterne */
 .carousel-item img{
     max-height: 400px;
