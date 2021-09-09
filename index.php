@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Accueil - BENINISES</title>
-
     <?php 
       include "sections/stylesheets.php";
     ?>
@@ -28,27 +27,24 @@
                 <div class="carousel-inner" role="listbox">
 
                     <!-- Slide 1 -->
-                    <div class="carousel-item active" style="background-image: url('assets/img/slide/slide-1.jpg');">
+                    <div class="carousel-item active" style="background-image: url('assets/img/slides/slide1.png');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
                                 <h2 class="animate__animated animate__fadeInDown">Bienvenue au <span
                                         class="text-muted bg-white">DAHOMEY</span></h2>
-                                <p class="animate__animated animate__fadeInUp">Chercher à vivre du trading et de la
-                                    bourse est un processus qui peut être passionnant à plusieurs égards, mais il doit
-                                    être pris très au sérieux pour que cela ait une chance de fonctionner.</p>
+                                <p class="animate__animated animate__fadeInUp">Nous vous présentons le Bénin sous toutes ces facettes.</p>
                                 <a href="#about"
-                                    class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
+                                    class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir +</a>
                             </div>
                         </div>
                     </div>
 
                     <!-- Slide 2 -->
-                    <div class="carousel-item" style="background-image: url('assets/img/slide/slide-2.jpg');">
+                    <div class="carousel-item" style="background-image: url('assets/img/slides/slide2.jpg');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
-                                <h2 class="animate__animated animate__fadeInDown">Trader's Skill Room</h2>
-                                <p class="animate__animated animate__fadeInUp">Le guide pour Vivre du Trading et de la
-                                    Bourse.</p>
+                                <h2 class="animate__animated animate__fadeInDown">Voulez-vous en savoir plus sur ce pays ???</h2>
+                                <p class="animate__animated animate__fadeInUp">Cela tombre bien visitez ce site en entier et partons à l'aventure !!!</p>
                                 <a href="#about"
                                     class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
                             </div>
@@ -56,13 +52,11 @@
                     </div>
 
                     <!-- Slide 3 -->
-                    <div class="carousel-item" style="background-image: url('assets/img/slide/slide-3.jpg');">
+                    <div class="carousel-item" style="background-image: url('assets/img/slides/slide3.jpg');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
-                                <h2 class="animate__animated animate__fadeInDown">Devenir trader professionnel</h2>
-                                <p class="animate__animated animate__fadeInUp">Apprendre à trader pour un débutant
-                                    implique obligatoirement une formation. Quoiqu'il arrive vous serez obligé de vous
-                                    former que ce soit avec un professionnel ou seul devant votre écran de trading.</p>
+                                <h2 class="animate__animated animate__fadeInDown">Nous faisons la promotion de la culture Béninoise .</h2>
+                                <p class="animate__animated animate__fadeInUp">FRATERNITE - JUSTICE - TRAVAIL </p>
                                 <a href="#about"
                                     class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
                             </div>
@@ -84,14 +78,14 @@
         </div>
     </section><!-- End Hero -->
 
-
+    <!-- ====== Verrah section ====== -->
     <div class="album py-5 bg-light">
         <div class="container">
 
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Benin11.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/Benin11.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Parakou</h2>
@@ -99,8 +93,7 @@
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Nord</small>
                             </div>
@@ -109,7 +102,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Benin3.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/Benin3.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Natitingou</h2>
@@ -117,8 +110,7 @@
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Nord</small>
                             </div>
@@ -127,16 +119,15 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Destination-Afrique-lieux-tourisme-au-Benin.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/nikki.jpeg" alt="" class="cube">
 
                         <div class="card-body">
-                            <h2>Pendjari</h2>
+                            <h2>Nikki</h2>
                             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Nord</small>
                             </div>
@@ -145,7 +136,24 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/culture.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/Destination-Afrique-lieux-tourisme-au-Benin.jpg" alt="" class="cube">
+
+                        <div class="card-body">
+                            <h2>Tanguiéta</h2>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
+                                </div>
+                                <small class="text-muted">Nord</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <div class="col-hover">
+                    <div class="card shadow-sm">
+                        <img src="assets/img/villes/culture.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Abomey</h2>
@@ -153,8 +161,7 @@
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Centre</small>
                             </div>
@@ -163,7 +170,24 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Benin5.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/savalou.jpeg" alt="" class="cube">
+
+                        <div class="card-body">
+                            <h2>Savalou</h2>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
+                                </div>
+                                <small class="text-muted">Centre</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <div class="col-hover">
+                    <div class="card shadow-sm">
+                        <img src="assets/img/villes/Benin5.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Kétou</h2>
@@ -171,8 +195,7 @@
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Centre</small>
                             </div>
@@ -181,7 +204,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/savè.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Savè</h2>
@@ -189,18 +212,16 @@
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Centre</small>
                             </div>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Benin2.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/cotonou.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Cotonou</h2>
@@ -208,8 +229,7 @@
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Sud</small>
                             </div>
@@ -218,7 +238,24 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Benin8.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/grand_popo.jpeg" alt="" class="cube">
+
+                        <div class="card-body">
+                            <h2>Grand-PoPo</h2>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
+                                </div>
+                                <small class="text-muted">Sud</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-hover">
+                    <div class="card shadow-sm">
+                        <img src="assets/img/villes/ouidah.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Ouidah</h2>
@@ -226,8 +263,7 @@
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Sud</small>
                             </div>
@@ -236,7 +272,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/thumb_63_default_blog.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/porto.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Porto-Novo</h2>
@@ -244,8 +280,7 @@
                                 additional content. This content is a little bit longer.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Voir + </button>
                                 </div>
                                 <small class="text-muted">Sud</small>
                             </div>

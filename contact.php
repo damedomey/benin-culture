@@ -20,6 +20,7 @@
 
     <!-- YOUR CODE -->
 
+    Page de contact
     <?php 
       include "sections/footer.php";
       include "sections/script.php";
