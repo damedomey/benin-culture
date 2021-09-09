@@ -216,7 +216,7 @@
   color: #fff;
 }
 
-#footer .footer-top .social-links a {
+#footer .footer-top .social a {
   font-size: 18px;
   display: inline-block;
   background: #768fa6;
@@ -231,7 +231,7 @@
   transition: 0.3s;
 }
 
-#footer .footer-top .social-links a:hover {
+#footer .footer-top .social a:hover {
   background: #428bca;
   color: #fff;
   text-decoration: none;

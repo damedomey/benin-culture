@@ -28,14 +28,12 @@
                 <div class="carousel-inner" role="listbox">
 
                     <!-- Slide 1 -->
-                    <div class="carousel-item active" style="background-image: url('assets/img/slide/slide-1.jpg');">
+                    <div class="carousel-item active" style="background-image: url('assets/img/Benin2.jpeg');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
                                 <h2 class="animate__animated animate__fadeInDown">Bienvenue au <span
                                         class="text-muted bg-white">DAHOMEY</span></h2>
-                                <p class="animate__animated animate__fadeInUp">Chercher à vivre du trading et de la
-                                    bourse est un processus qui peut être passionnant à plusieurs égards, mais il doit
-                                    être pris très au sérieux pour que cela ait une chance de fonctionner.</p>
+                                <p class="animate__animated animate__fadeInUp">Découvrez le Bénin, un pays francophone d'Afrique de l’Ouest, berceau de la religion vaudou, mais aussi le territoire de l'ancien Royaume de Dahomey.</p>
                                 <a href="#about"
                                     class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
                             </div>
@@ -43,12 +41,11 @@
                     </div>
 
                     <!-- Slide 2 -->
-                    <div class="carousel-item" style="background-image: url('assets/img/slide/slide-2.jpg');">
+                    <div class="carousel-item" style="background-image: url('assets/img/Benin3.jpg');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
-                                <h2 class="animate__animated animate__fadeInDown">Trader's Skill Room</h2>
-                                <p class="animate__animated animate__fadeInUp">Le guide pour Vivre du Trading et de la
-                                    Bourse.</p>
+                                <h2 class="animate__animated animate__fadeInDown">Habitations traditionnelles du Nord du Bénin</h2>
+                                <p class="animate__animated animate__fadeInUp">Il comporte de nombreux éléments historiques protégés dont les Tatas Sombas, des constructions traditionnelles érigées à des fins de protection contre les prédateurs..</p>
                                 <a href="#about"
                                     class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
                             </div>
@@ -56,7 +53,7 @@
                     </div>
 
                     <!-- Slide 3 -->
-                    <div class="carousel-item" style="background-image: url('assets/img/slide/slide-3.jpg');">
+                    <div class="carousel-item" style="background-image: url('assets/img/Benin7.jpg');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
                                 <h2 class="animate__animated animate__fadeInDown">Devenir trader professionnel</h2>

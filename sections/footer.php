@@ -12,13 +12,20 @@
                           <strong>Tel:</strong> +229 ++ ++ ++ ++<br>
                           <strong>Email:</strong> info@example.com<br>
                       </p>
-                      <div class="social-links mt-3">
+                      <!-- <div class="social-links mt-3">
                           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                           <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                           <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                           <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                      </div>
+                      </div> -->
+                        <div class="social">
+
+                            <a href="#"><i class="fab fa-facebook"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                        </div>
                   </div>
 
                   <div class="col-lg-2 col-md-6 footer-links">
@@ -35,11 +42,11 @@
                   <div class="col-lg-3 col-md-6 footer-links">
                       <h4>Categories</h4>
                       <ul>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Formations</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Artisanat</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Langues</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Musiques</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Dances</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="#">Monuments</a></li>
                       </ul>
                   </div>
 
@@ -64,5 +71,3 @@
           </div>
       </div>
   </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
