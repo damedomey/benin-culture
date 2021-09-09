@@ -5,12 +5,12 @@
               <div class="row">
 
                   <div class="col-lg-3 col-md-6 footer-info">
-                      <h3>Dahomey</h3> 
+                      <img src="assets/img/dahomey.png" width="200px" height="100px" alt="">
                       <p>
                           <!-- Cotonou <br> -->
                           <!-- Dahomey<br><br> -->
                           <!-- <strong>Tel:</strong> +229 ++ ++ ++ ++<br> -->
-                          <strong>Email:</strong> dahomeyproject@gmail.com<br>
+                          contact@gmail.com<br>
                       </p>
                       <div class="social-links mt-3">
                           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -24,10 +24,10 @@
                   <div class="col-lg-2 col-md-6 footer-links" style = "margin-right : -2% ;">
                       <h4>Liens</h4>
                       <ul>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Accueil</a></li>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#about">A propos</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="index.php">Accueil</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="">A propos</a></li>
                           <!-- <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li> -->
-                          <li><i class="bx bx-chevron-right"></i> <a href="">Contact</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="contact.php">Contact</a></li>
                           <!-- <li><i class="bx bx-chevron-right"></i> <a href="">Politique de sécurité</a></li> -->
                       </ul>
                   </div>
@@ -35,12 +35,12 @@
                   <div class="col-lg-3 col-md-6 footer-links" style = "margin-right : 3% ;">
                       <h4>Categories</h4>
                       <ul>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Artisanat</a></li> <hr>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Danse</a></li> <hr>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Langues & Ethnies</a></li> <hr>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Monuments</a></li> <hr>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Musique</a></li> <hr>
-                          <li><i class="bx bx-chevron-right"></i> <a href="#">Mythes & légendes</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="artisanat.php">Artisanat</a></li> 
+                          <li><i class="bx bx-chevron-right"></i> <a href="danses.php">Danse</a></li> 
+                          <li><i class="bx bx-chevron-right"></i> <a href="langues.php">Langues & Ethnies</a></li> 
+                          <li><i class="bx bx-chevron-right"></i> <a href="monument.php">Monuments</a></li> 
+                          <li><i class="bx bx-chevron-right"></i> <a href="musique.php">Musique</a></li> 
+                          <li><i class="bx bx-chevron-right"></i> <a href="model.php">Mythes & légendes</a></li>
                       </ul>
                   </div>
 
@@ -65,5 +65,3 @@
           </div>
       </div>
   </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>

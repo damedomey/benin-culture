@@ -20,7 +20,7 @@
       <div class="row">
         <div class="col-12 col-sm-2 overflow-hidden">
           <div class="col-12">
-            <p>Artisanat</p>
+            <p><h1>Artisanat</h1></p>
           </div>
         </div>
         <div class="col-12 col-sm-10">
@@ -28,7 +28,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/bois_2.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/bois_2.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Sculpture en bois</h4>
@@ -45,7 +45,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/métal.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/métal.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Sculpture métallique</h4>
@@ -62,7 +62,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/masque.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/masque.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Masque en bois</h4>
@@ -78,7 +78,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/perles.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/perles.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Bracelet -perles & fil </h4>
@@ -95,7 +95,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/falaise_dion.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/falaise_dion.jpeg" alt="" class="cube">
                 <div class="card-body">
                   <h4>Lafalaise Dion</h4>
                   <p class="card-text">Voile fait de coris "AKOUEKOUN" en fon.
@@ -111,7 +111,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/chapeau.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/chapeau.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Chapeau </h4>
@@ -128,7 +128,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/souliers.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/souliers.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Souliers</h4>
@@ -145,7 +145,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/kora.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/kora.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Instruments de musiques</h4>
@@ -163,7 +163,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/vanerie.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/vanerie.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Vanerie</h4>
@@ -180,7 +180,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/tableau.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/tableau.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Peinture</h4>
@@ -198,7 +198,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/pagne_tissé.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/pagne_tissé.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Pagne tissé</h4>
@@ -216,7 +216,7 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
               <div class="col">
                 <div class="card shadow-sm">
-                <img src="assets/img/poterie.jpeg" alt="" class="cube">
+                <img src="assets/img/categories/artisanat/poterie.jpeg" alt="" class="cube">
                 
                 <div class="card-body">
                   <h4>Poterie</h4>

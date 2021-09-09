@@ -4,9 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="Voirport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Accueil - BENINISES</title>
-
     <?php 
       include "sections/stylesheets.php";
     ?>
@@ -28,20 +27,20 @@
                 <div class="carousel-inner" role="listbox">
 
                     <!-- Slide 1 -->
-                    <div class="carousel-item active" style="background-image: url('assets/img/Benin9.png');">
+                    <div class="carousel-item active" style="background-image: url('assets/img/slides/slide1.png');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
                                 <h2 class="animate__animated animate__fadeInDown">Bienvenue au <span
                                         class="text-muted bg-white">DAHOMEY</span></h2>
                                 <p class="animate__animated animate__fadeInUp">Nous vous présentons le Bénin sous toutes ces facettes.</p>
                                 <a href="#about"
-                                    class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir plus</a>
+                                    class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir +</a>
                             </div>
                         </div>
                     </div>
 
                     <!-- Slide 2 -->
-                    <div class="carousel-item" style="background-image: url('assets/img/Benin5.jpg');">
+                    <div class="carousel-item" style="background-image: url('assets/img/slides/slide2.jpg');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
                                 <h2 class="animate__animated animate__fadeInDown">Voulez-vous en savoir plus sur ce pays ???</h2>
@@ -53,7 +52,7 @@
                     </div>
 
                     <!-- Slide 3 -->
-                    <div class="carousel-item" style="background-image: url('assets/img/bois_2.jpeg');">
+                    <div class="carousel-item" style="background-image: url('assets/img/slides/slide3.jpg');">
                         <div class="carousel-container">
                             <div class="carousel-content container">
                                 <h2 class="animate__animated animate__fadeInDown">Nous faisons la promotion de la culture Béninoise .</h2>
@@ -86,7 +85,7 @@
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Benin11.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/Benin11.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Parakou</h2>
@@ -103,7 +102,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Benin3.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/Benin3.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Natitingou</h2>
@@ -120,7 +119,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/nikki.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/nikki.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Nikki</h2>
@@ -137,7 +136,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Destination-Afrique-lieux-tourisme-au-Benin.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/Destination-Afrique-lieux-tourisme-au-Benin.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Tanguiéta</h2>
@@ -154,7 +153,7 @@
                 </div>                
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/culture.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/culture.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Abomey</h2>
@@ -171,7 +170,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/savalou.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/savalou.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Savalou</h2>
@@ -188,7 +187,7 @@
                 </div>                
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/Benin5.jpg" alt="" class="cube">
+                        <img src="assets/img/villes/Benin5.jpg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Kétou</h2>
@@ -205,7 +204,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/savè.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/savè.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Savè</h2>
@@ -222,7 +221,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/cotonou.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/cotonou.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Cotonou</h2>
@@ -239,7 +238,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/grand_popo.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/grand_popo.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Grand-PoPo</h2>
@@ -256,7 +255,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/ouidah.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/ouidah.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Ouidah</h2>
@@ -273,7 +272,7 @@
                 </div>
                 <div class="col-hover">
                     <div class="card shadow-sm">
-                        <img src="assets/img/porto.jpeg" alt="" class="cube">
+                        <img src="assets/img/villes/porto.jpeg" alt="" class="cube">
 
                         <div class="card-body">
                             <h2>Porto-Novo</h2>
