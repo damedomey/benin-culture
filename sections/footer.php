@@ -40,7 +40,7 @@
                           <li><i class="bx bx-chevron-right"></i> <a href="langues.php">Langues & Ethnies</a></li> 
                           <li><i class="bx bx-chevron-right"></i> <a href="monument.php">Monuments</a></li> 
                           <li><i class="bx bx-chevron-right"></i> <a href="musique.php">Musique</a></li> 
-                          <li><i class="bx bx-chevron-right"></i> <a href="model.php">Mythes & légendes</a></li>
+                          <li><i class="bx bx-chevron-right"></i> <a href="mythesetlegendes.php">Mythes & légendes</a></li>
                       </ul>
                   </div>
 
