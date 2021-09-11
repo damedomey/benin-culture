@@ -22,7 +22,7 @@
                         <li><a class="dropdown-item" href="langues.php">Langues & Ethnies</a></li>
                         <li><a class="dropdown-item" href="monument.php">Monuments</a></li>
                         <li><a class="dropdown-item" href="musique.php">Musique</a></li>
-                        <li><a class="dropdown-item" href="model.php">Mythes & légendes</a></li>
+                        <li><a class="dropdown-item" href="mythesetlegendes.php">Mythes & légendes</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
